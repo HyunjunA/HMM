@@ -12,3 +12,7 @@ I implemented Hidden Markov Models.
 )
 
 3 [Hidden Markov Models in Bioinformatics with Application to Gene Finding in Human DNA](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.88.351&rep=rep1&type=pdf)
+
+
+## How to run
+1 Run main.m
